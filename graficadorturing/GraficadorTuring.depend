@@ -1,0 +1,272 @@
+# depslib dependency file v1.0
+1414529222 source:c:\users\maviles\dropbox\personal\cursos\estructuras de datos\código\graficadorturing\main.cpp
+	<iostream>
+	"include\GraficadorTuring.h"
+
+1414529304 c:\users\maviles\dropbox\personal\cursos\estructuras de datos\código\graficadorturing\include\graficadorturing.h
+	<winbgim.h>
+	<string>
+	<math.h>
+
+1414818401 source:c:\users\admin\dropbox\personal\cursos\estructuras de datos\código\graficadorturing\main.cpp
+	<iostream>
+	"include\GraficadorTuring.h"
+	<sstream>
+
+1414817566 c:\users\admin\dropbox\personal\cursos\estructuras de datos\código\graficadorturing\include\graficadorturing.h
+	<winbgim.h>
+	<string>
+	<math.h>
+	<stdexcept>
+
+1415904806 source:c:\users\gaby\dropbox\turing\graficadorturing\main.cpp
+	<iostream>
+	<sstream>
+	"Graph.h"
+	"GraficadorTuring.h"
+	"LectorDeArchivos.h"
+	"GUI.h"
+	"Tira.h"
+
+1415874680 c:\users\gaby\dropbox\turing\graficadorturing\include\graficadorturing.h
+	<winbgim.h>
+	<string>
+	<math.h>
+	<stdexcept>
+
+1415718761 source:c:\users\giova\dropbox\turing\graficadorturing\main.cpp
+	<iostream>
+	"include\GraficadorTuring.h"
+	<sstream>
+	<GUI.h>
+	"include\Tira.h"
+
+1415723892 c:\users\giova\dropbox\turing\graficadorturing\include\graficadorturing.h
+	<winbgim.h>
+	<string>
+	<math.h>
+	<stdexcept>
+
+1415565639 c:\users\giova\dropbox\turing\graficadorturing\include\dlinkedlist.h
+
+1415637589 c:\users\giova\dropbox\turing\graficadorturing\include\gui.h
+	<string.h>
+
+1415577404 c:\users\giova\dropbox\turing\graficadorturing\include\linkedlist.h
+	<Node.h>
+	<iostream>
+	<stdexcept>
+
+1415570757 c:\users\giova\dropbox\turing\graficadorturing\include\node.h
+	<cstddef>
+
+1415723724 c:\users\giova\dropbox\turing\graficadorturing\include\tira.h
+	<LinkedList.h>
+
+1415724990 source:c:\users\giova\dropbox\turing (1)\graficadorturing\main.cpp
+	<iostream>
+	"include\GraficadorTuring.h"
+	<sstream>
+	<GUI.h>
+	"include\Tira.h"
+
+1415725240 c:\users\giova\dropbox\turing (1)\graficadorturing\include\graficadorturing.h
+	<winbgim.h>
+	<string>
+	<math.h>
+	<stdexcept>
+
+1415637589 c:\users\giova\dropbox\turing (1)\graficadorturing\include\gui.h
+	<string.h>
+
+1415723724 c:\users\giova\dropbox\turing (1)\graficadorturing\include\tira.h
+	<LinkedList.h>
+
+1415577404 c:\users\giova\dropbox\turing (1)\graficadorturing\include\linkedlist.h
+	<Node.h>
+	<iostream>
+	<stdexcept>
+
+1415570757 c:\users\giova\dropbox\turing (1)\graficadorturing\include\node.h
+	<cstddef>
+
+1415908760 source:e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\turing\graficadorturing\main.cpp
+	<iostream>
+	<sstream>
+	"Graph.h"
+	"GraficadorTuring.h"
+	"LectorDeArchivos.h"
+	"Tira.h"
+
+1415874680 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\turing\graficadorturing\include\graficadorturing.h
+	<winbgim.h>
+	<string>
+	<math.h>
+	<stdexcept>
+
+1415859699 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\turing\graficadorturing\include\gui.h
+	<string.h>
+
+1415910457 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\turing\graficadorturing\include\tira.h
+	"LinkedList.h"
+	<iostream>
+
+1415863899 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\turing\graficadorturing\include\linkedlist.h
+	<stdexcept>
+	<iostream>
+	"Node.h"
+
+1412043032 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\turing\graficadorturing\include\node.h
+	<stdexcept>
+
+1415904763 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\turing\graficadorturing\include\lectordearchivos.h
+	"VirtualTuringMachine.h"
+	"Transicion.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1415909370 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\turing\graficadorturing\include\virtualturingmachine.h
+	"LinkedList.h"
+	"Transicion.h"
+	"Tira.h"
+	"vtm_indetermination_error.h"
+	<stdexcept>
+
+1415869073 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\turing\graficadorturing\include\transicion.h
+
+1415869192 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\turing\graficadorturing\include\graph.h
+	"LinkedList.h"
+	"Transicion.h"
+	"Edge.h"
+
+1415869114 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\turing\graficadorturing\include\edge.h
+	"Transicion.h"
+
+1415761112 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\turing\graficadorturing\src\virtualturingmachine.cpp
+	"VirtualTuringMachine.h"
+	"Graph.h"
+
+1415761464 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\turing\graficadorturing\src\graph.cpp
+	"Graph.h"
+	"VirtualTuringMachine.h"
+
+1415873735 source:e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\turing\graficadorturing\src\graph.cpp
+	"Graph.h"
+	"VirtualTuringMachine.h"
+
+1415910542 source:e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\turing\graficadorturing\src\virtualturingmachine.cpp
+	"VirtualTuringMachine.h"
+	"Graph.h"
+
+1415852395 source:e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\graficadorturing\src\graph.cpp
+	"Graph.h"
+	"VirtualTuringMachine.h"
+
+1415845335 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\graficadorturing\include\graph.h
+	"LinkedList.h"
+	"Transicion.h"
+	"Edge.h"
+
+1415844627 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\graficadorturing\include\linkedlist.h
+	<stdexcept>
+	"Node.h"
+
+1412043032 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\graficadorturing\include\node.h
+	<stdexcept>
+
+1415837600 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\graficadorturing\include\transicion.h
+
+1415852241 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\graficadorturing\include\virtualturingmachine.h
+	"LinkedList.h"
+	"Transicion.h"
+	"Tira.h"
+	<stdexcept>
+
+1415787691 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\graficadorturing\include\tira.h
+	"LinkedList.h"
+	<iostream>
+
+1415853332 source:e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\graficadorturing\main.cpp
+	<iostream>
+	<sstream>
+	"Graph.h"
+	"GraficadorTuring.h"
+	"LectorDeArchivos.h"
+	"GUI.h"
+	"Tira.h"
+
+1415775932 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\graficadorturing\include\graficadorturing.h
+	<winbgim.h>
+	<string>
+	<math.h>
+	<stdexcept>
+
+1415786954 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\graficadorturing\include\lectordearchivos.h
+	"VirtualTuringMachine.h"
+	"Transicion.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1415637589 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\graficadorturing\include\gui.h
+	<string.h>
+
+1415852800 source:e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\graficadorturing\src\virtualturingmachine.cpp
+	"VirtualTuringMachine.h"
+	"Graph.h"
+
+1415845734 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\graficadorturing\include\edge.h
+	"Transicion.h"
+
+1415904345 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\turing\graficadorturing\include\vtm_indetermination_error.h
+
+1415869192 c:\users\gaby\dropbox\turing\graficadorturing\include\graph.h
+	"LinkedList.h"
+	"Transicion.h"
+	"Edge.h"
+
+1415863899 c:\users\gaby\dropbox\turing\graficadorturing\include\linkedlist.h
+	<stdexcept>
+	<iostream>
+	"Node.h"
+
+1412043032 c:\users\gaby\dropbox\turing\graficadorturing\include\node.h
+	<stdexcept>
+
+1415869073 c:\users\gaby\dropbox\turing\graficadorturing\include\transicion.h
+
+1415869114 c:\users\gaby\dropbox\turing\graficadorturing\include\edge.h
+	"Transicion.h"
+
+1415904763 c:\users\gaby\dropbox\turing\graficadorturing\include\lectordearchivos.h
+	"VirtualTuringMachine.h"
+	"Transicion.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1415904128 c:\users\gaby\dropbox\turing\graficadorturing\include\virtualturingmachine.h
+	"LinkedList.h"
+	"Transicion.h"
+	"Tira.h"
+	"vtm_indetermination_error.h"
+	<stdexcept>
+
+1415907131 c:\users\gaby\dropbox\turing\graficadorturing\include\tira.h
+	"LinkedList.h"
+	<iostream>
+
+1415904345 c:\users\gaby\dropbox\turing\graficadorturing\include\vtm_indetermination_error.h
+
+1415859699 c:\users\gaby\dropbox\turing\graficadorturing\include\gui.h
+	<string.h>
+
+1415873735 source:c:\users\gaby\dropbox\turing\graficadorturing\src\graph.cpp
+	"Graph.h"
+	"VirtualTuringMachine.h"
+
+1415906558 source:c:\users\gaby\dropbox\turing\graficadorturing\src\virtualturingmachine.cpp
+	"VirtualTuringMachine.h"
+	"Graph.h"
+

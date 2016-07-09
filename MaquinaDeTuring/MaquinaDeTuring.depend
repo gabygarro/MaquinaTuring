@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1415781712 source:e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\turing\maquinadeturing\main.cpp
+	<iostream>
+	"LectorDeArchivos.h"
+	"Graph.h"
+
+1415781697 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\turing\maquinadeturing\include\lectordearchivos.h
+	"VirtualTuringMachine.h"
+	"Transicion.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1415731689 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\turing\maquinadeturing\include\virtualturingmachine.h
+	"LinkedList.h"
+	"Transicion.h"
+
+1415729880 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\turing\maquinadeturing\include\linkedlist.h
+	<stdexcept>
+	"Node.h"
+
+1412043032 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\turing\maquinadeturing\include\node.h
+	<stdexcept>
+
+1415730506 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\turing\maquinadeturing\include\transicion.h
+
+1415726019 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\turing\maquinadeturing\include\graph.h
+	"LinkedList.h"
+	"Edge.h"
+	"VirtualTuringMachine.h"
+	<stdexcept>
+
+1415590425 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\turing\maquinadeturing\include\edge.h
+	"Transicion.h"
+
+1415730674 source:c:\users\gaby\dropbox\turing\maquinadeturing\main.cpp
+	<iostream>
+	"LectorDeArchivos.h"
+	"Graph.h"
+
+1415731305 c:\users\gaby\dropbox\turing\maquinadeturing\include\lectordearchivos.h
+	"VirtualTuringMachine.h"
+	"Transicion.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1415730599 c:\users\gaby\dropbox\turing\maquinadeturing\include\virtualturingmachine.h
+	"LinkedList.h"
+	"Transicion.h"
+
+1415729880 c:\users\gaby\dropbox\turing\maquinadeturing\include\linkedlist.h
+	<stdexcept>
+	"Node.h"
+
+1412043032 c:\users\gaby\dropbox\turing\maquinadeturing\include\node.h
+	<stdexcept>
+
+1415730506 c:\users\gaby\dropbox\turing\maquinadeturing\include\transicion.h
+
+1415726019 c:\users\gaby\dropbox\turing\maquinadeturing\include\graph.h
+	"LinkedList.h"
+	"Edge.h"
+	"VirtualTuringMachine.h"
+	<stdexcept>
+
+1415590425 c:\users\gaby\dropbox\turing\maquinadeturing\include\edge.h
+	"Transicion.h"
+
